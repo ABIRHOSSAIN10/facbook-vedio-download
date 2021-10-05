@@ -1,4 +1,4 @@
-#cradit darkhunter141
+#itrendbuzz.com
 import sys,os,wget
 import  requests 
 import re
